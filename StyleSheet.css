@@ -1,0 +1,13 @@
+﻿body {
+    margin: 0;
+    background-image: url('chalk-board-wallpaper-4.jpg');
+    background-size: 1540px 800px;
+    background-repeat: no-repeat;
+    display: compact;
+    color: black;
+    font: 13px/18px "Helvetica Neue", Helvetica, Arial, sans-serif,;
+}
+p {
+    font: 13px/18px "Helvetica Neue", Helvetica, Arial, sans-serif,
+    color: bold;
+}
