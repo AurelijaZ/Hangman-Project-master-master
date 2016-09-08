@@ -84,7 +84,7 @@ public partial class _Default : System.Web.UI.Page
         int guessIndex = (new Random()).Next(words.Length); //generates random number for the words 
         current = words[guessIndex];
 
-        TestWord.Text = current;
+        //TestWord.Text = current;
         //reset the message of results 
         Test2.Text = "";
 
@@ -155,7 +155,7 @@ public partial class _Default : System.Web.UI.Page
             Test2.Text = "Yay, you won!!!";
         }
 
-        TestWord.Text = choice.Text;
+       // TestWord.Text = choice.Text;
     }
 
     protected void imageCase()

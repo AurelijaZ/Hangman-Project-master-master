@@ -35,7 +35,7 @@
 
         <asp:Label ID="WordResult" runat="server" Text="" ></asp:Label>
         <br />
-        <asp:Label ID="TestWord" runat="server" Text="TestLetter"></asp:Label>
+       
         <br />
         <asp:Label ID="Test2" runat="server" Text=""></asp:Label>
         <br />

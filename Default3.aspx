@@ -8,7 +8,7 @@
     <meta charset="utf-8"/> 
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <link href="Content/bootstrap.min.css" rel="stylesheet" />
-    s<link href="StyleSheet.css" rel="stylesheet" />
+    <link href="StyleSheet.css" rel="stylesheet" />
 </head>
 <body>
     <form id="form1" runat="server">
